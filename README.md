@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **https://discord.gg/SedSpRjKbU**
 
+<img src="https://cdn.discordapp.com/attachments/1110944613822386248/1128587953313169448/image.png" alt="Picture of the external cheat">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/SedSpRjKbU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SedSpRjKbU" height="30" width="40" /></a>
