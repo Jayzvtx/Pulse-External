@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, We are Pulse</h1>
+.gradient-text {
+      background: -webkit-linear-gradient(purple, black);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+
+      <h1 class="gradient-text">Welcome to the official GitHub repository for Pulse External</h1>
+      
 - 🔭 I’m currently working on [Fortnite Cheats](https://discord.gg/SedSpRjKbU)
 
 - 🌱 currently learning **C++/Game Hacking**
